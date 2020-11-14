@@ -6,4 +6,4 @@ U projektu se promatra problem pronalaska stabilnog braka s nepotpunim preferenc
 ***
 Projekt nastao u sklopu izbornog kolegija Metaheuristike na PMF-u u Zagrebu.<br>
 Članovi tima: Ivona Raguž i Margarita Tolja
-***
+
